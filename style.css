@@ -12,14 +12,14 @@
 .entry-message{
   display: flex;
   justify-content: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   color: #0B0E26;
 }
 
 .detailation{
   display: flex;
   justify-content: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   color: #0B0E26;
   font-size: 2.5rem;
 }
@@ -27,21 +27,21 @@
 .go-through{
   display: flex;
   justify-content: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   color: #0B0E26;
 }
 
 .introduction{
   display: flex;
   justify-content: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   color: #0B0E26;
 }
 
 .specialization{
   display: flex;
   justify-content: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   color: #0B0E26;
 }
 
@@ -54,7 +54,7 @@
 .message{
   background-color: #0B0E26;
   color: #fff;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   padding: 30px;
 }
 
@@ -75,7 +75,7 @@
 }
 
 .heading{
-  font-family: 'Pacifico', cursive;
+  font-family: 'Open Sans', sans-serif;
   display: flex;
   justify-content: center;
   font-size: 3rem;
